@@ -20,7 +20,7 @@ const SplashScreen: React.FC<SplashScreenProps> = ({ finishLoading }) => {
       duration: 2000,
       easing: "easeInOutExpo",
     });
-  }, []);
+  }, [finishLoading]);
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-center overflow-clip">
