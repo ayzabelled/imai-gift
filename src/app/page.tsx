@@ -32,7 +32,7 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
-            <p className ="text-normal font-normal text-center text-black"> “Track suits and red wine, Movies for two”</p>
+            <p className ="text-normal font-normal text-center text-black"> &rdquo;Track suits and red wine, Movies for two&ldquo;</p>
             </div>
 
             <div>
@@ -43,7 +43,7 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
-            <p className ="text-normal font-normal text-center text-black"> “We'll take off our phones, And we'll turn off our shoes”</p>
+            <p className ="text-normal font-normal text-center text-black"> &rdquo;We'll take off our phones, And we'll turn off our shoes&ldquo;</p>
             </div>
 
             <div>
@@ -54,7 +54,7 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
-             <p className ="text-normal font-normal text-center text-black"> “We'll play Nintendo, Though I always lose”</p>
+             <p className ="text-normal font-normal text-center text-black"> &rdquo;We'll play Nintendo, Though I always lose&ldquo;</p>
             </div>
 
             <div>
@@ -65,7 +65,7 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
-            <p className ="text-normal font-normal text-center text-black"> “'Cause you'll watch the TV, While I'm watching you”</p>
+            <p className ="text-normal font-normal text-center text-black"> &rdquo;'Cause you'll watch the TV, While I'm watching you&ldquo;</p>
             </div>
 
             <div>
@@ -76,7 +76,7 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
-            <p className ="text-normal font-normal text-center text-black"> “There's not many people I'd honestly say”</p>
+            <p className ="text-normal font-normal text-center text-black"> &rdquo;There's not many people I'd honestly say&ldquo;</p>
             </div>
 
             <div>
@@ -87,7 +87,7 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
-            <p className ="text-normal font-normal text-center text-black"> “I don't mind losing to, But there's nothing like doing nothing with you”</p>
+            <p className ="text-normal font-normal text-center text-black"> &rdquo;I don't mind losing to, But there's nothing like doing nothing with you&ldquo;</p>
             </div>
 
             </div>
