@@ -21,3 +21,27 @@ body {
     text-wrap: balance;
   }
 }
+
+.main-grid {
+  grid-template-columns: repeat(1, 1fr); /* 1 column on small screens */
+  grid-template-rows: repeat(6, 1fr); /* 6 rows on small screens */
+  font-size: small;
+}
+
+/* Medium screens and up */
+@media (min-width: 768px) {
+  .main-grid {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns on medium screens */
+    grid-template-rows: repeat(3, 1fr); /* 3 rows on medium screens */
+    font-size: medium;
+  }
+}
+
+/* Large screens and up */
+@media (min-width: 1024px) {
+  .main-grid {
+    grid-template-columns: repeat(3, 1fr); /* 3 columns on large screens */
+    grid-template-rows: repeat(2, 1fr); /* 2 rows on large screens */
+    font-size: large;
+  }
+}
