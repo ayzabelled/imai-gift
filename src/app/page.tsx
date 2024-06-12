@@ -24,6 +24,7 @@ function MyApp() {
             ></Image>
 
             <div className ="flex grid grid-cols-3 grid-rows-2 snap-proximity snap-x">
+              <div>
             <Image
             src="/1.png"
             alt="Picture"
@@ -31,6 +32,10 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
+            <p className ="text-normal font-normal text-center text-black"> “Track suits and red wine, Movies for two”</p>
+            </div>
+
+            <div>
             <Image
             src="/2.png"
             alt="Picture"
@@ -38,6 +43,10 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
+            <p className ="text-normal font-normal text-center text-black"> “We'll take off our phones, And we'll turn off our shoes”</p>
+            </div>
+
+            <div>
             <Image
             src="/3.png"
             alt="Picture"
@@ -45,6 +54,10 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
+             <p className ="text-normal font-normal text-center text-black"> “We'll play Nintendo, Though I always lose”</p>
+            </div>
+
+            <div>
             <Image
             src="/4.png"
             alt="Picture"
@@ -52,6 +65,10 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
+            <p className ="text-normal font-normal text-center text-black"> “'Cause you'll watch the TV, While I'm watching you”</p>
+            </div>
+
+            <div>
             <Image
             src="/5.png"
             alt="Picture"
@@ -59,6 +76,10 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
+            <p className ="text-normal font-normal text-center text-black"> “There's not many people I'd honestly say”</p>
+            </div>
+
+            <div>
             <Image
             src="/6.png"
             alt="Picture"
@@ -66,6 +87,9 @@ function MyApp() {
             width={500}
             height={500}
             ></Image>
+            <p className ="text-normal font-normal text-center text-black"> “I don't mind losing to, But there's nothing like doing nothing with you”</p>
+            </div>
+
             </div>
 
           <Image
